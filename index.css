@@ -59,6 +59,7 @@
 }
 body {
     background-color:hsl(257, 40%, 49%);
+    background-image: url("/images/bg-desktop.svg");
     display: flex;
     flex-direction: column;
     justify-content: center;
